@@ -1,0 +1,2 @@
+# gufyang.github.io
+hexo
